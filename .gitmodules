@@ -1,3 +1,9 @@
 [submodule "facets-suite"]
 	path = facets-suite
 	url = git@github.com:mskcc/facets-suite.git
+[submodule "pctGCdata"]
+	path = pctGCdata
+	url = git@github.com:mskcc/pctGCdata.git
+[submodule "facets"]
+	path = facets
+	url = git@github.com:mskcc/facets.git
